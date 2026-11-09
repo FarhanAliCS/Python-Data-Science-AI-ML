@@ -1,0 +1,5 @@
+import numpy as np
+
+data=np.linspace(1,10,6)
+
+print(data)
